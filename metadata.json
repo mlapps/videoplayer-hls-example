@@ -1,0 +1,6 @@
+{
+  "name": "videoplayer-hls-example",
+  "identifier": "com.metrological.app.videoplayerHlsExample",
+  "version": "1.0.0",
+  "icon": "./static/icon.png"
+}
